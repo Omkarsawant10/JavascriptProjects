@@ -1,0 +1,38 @@
+
+
+
+.cardbook {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    width: 300px; 
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  
+  #bookimg {
+    width: 100%;
+    height: 200px;
+    object-fit: cover; 
+    border-radius: 5px;
+    margin-bottom: 15px;
+  }
+  
+ 
+  h4 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  
+  #content {
+    font-size: 14px;
+    line-height: 1.5;
+    color: #666;
+  }
+  
